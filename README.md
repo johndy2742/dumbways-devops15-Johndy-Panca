@@ -1,12 +1,12 @@
-Tugas 1
+<h1>Tugas 1</h1>
 
-1. Definisi DevOps
+<h2>1. Definisi DevOps</h2>
    DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana
 kedua kata tersebut bermakna “operasional pengembang”. Seperti yang disebutkan
 sebelumnya, DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim
 yaitu tim development dengan tim operations dengan efektif dan efisien.
 
-2. sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
+<h2>2. sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya! </h2>
 
 Continuous Development
     Continuous Development ini melibatkan perencanaan dan pengkodean dalam pengembangan
@@ -79,7 +79,7 @@ menghilangkan langkah tambahan lainnya yang menghambat pengembangan pada sebuah
 aplikasi.
 
 
-3.Instalasi Ubuntu Server menggunakan VMWare/Multipass
+<h2>3.Instalasi Ubuntu Server menggunakan VMWare/Multipass</h2>
 
 
 

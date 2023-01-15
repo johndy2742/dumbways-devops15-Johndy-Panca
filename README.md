@@ -1,17 +1,15 @@
 
 Tugas 1
 1. Definisi DevOps
-2. sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
-3. Instalasi Ubuntu Server menggunakan VMWare/Multipass
-
-
-1. DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana
+   DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana
 kedua kata tersebut bermakna “operasional pengembang”. Seperti yang disebutkan
 sebelumnya, DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim
 yaitu tim development dengan tim operations dengan efektif dan efisien.
-2. DevOps Lifecycle
+
+2. sebutkan lifecycle DevOps (Continuous ...) dan Jelaskan definisi-definisinya!
+
 Continuous Development
-Continuous Development ini melibatkan perencanaan dan pengkodean dalam pengembangan
+    Continuous Development ini melibatkan perencanaan dan pengkodean dalam pengembangan
 perangkat lunak. Di sini, seluruh proses pengembangan dipecah menjadi siklus
 pengembangan yang lebih kecil / dipecah - pecah. Proses ini memudahkan tim DevOps untuk
 mempercepat proses pengembangan perangkat lunak secara keseluruhan.
@@ -30,10 +28,12 @@ bulan.
 Kode yang dibangun ini adalah kombinasi antara Unit Test, Code Review, Integration dan
 Packaging. Pada fase ini developer sangat sering melakukan perubahan, mereka akan sangat
 cepat menemukan masalah yang terjadi (jika ada) dan menyelesaikannya pada tahap
+
 Continuous Development.
 Pada fase ini, akan terjadi penggabungan fungsi dari kode baru dengan kode yang lama. Pada
 proses tersebut kita harus memperbarui kode yang ada pada seluruh sistem secara mulus.
 Salah satu tools populer yang dapat digunakan adalah Jenkins.
+
 Continuous Testing
 Continuous Testing adalah sebuah fase dimana kode akan diuji untuk bug dan kesalahan yang
 ada pada kode. Disinilah Quality Analysis (QA) memiliki peran utama untuk memastikan
@@ -41,11 +41,13 @@ kode yang dikembangkan tidak terdapat bug.
 Automation Tools seperti JUnit, Selenium dan TestNG sering digunakan untuk pengujian.
 Tools ini dapat membantu QA menganalisa kode secara bersamaan. Hal ini dilakukan agar
 tidak ada kekurangan dalam fungsionalitas aplikasi.
+
 Continuous Deployment
 Continuous Deployment memastikan bahwa publish aplikasi dapat dilakukan tanpa
 mempengaruhi kinerja dari aplikasi tersebut. Sangat penting untuk memastikan bahwa kode
 telah diterapkan pada semua server pada fase ini. Proses ini menghilangkan kebutuhan untuk
 merilis aplikasi secara manual.
+
 Continuous Monitoring
 Fase ini memproses informasi penting tentang aplikasi yang dikembangkan. Melalui
 Continuous Monitoring, developer dapat mengidentifikasi pola umum dan area abu-abu di
@@ -57,6 +59,7 @@ Kesalahan sistem seperti ‘server not reachable’, ‘low memory’ dan yang l
 pada fase Continuous Monitoring. Continuous Monitoring juga menjada ketersediaan dan
 keamanan layanan. Masalah jaringan dan masalah lainnya karena secara otomatis diperbaiki
 selama fase ini pada saat kesalahan dideteksi.
+
 Continuous Feedback
 Continuous Feedback sangat penting untuk memastikan dan menganalisis hasil akhir dari
 sebuah aplikasi. Fase ini kita akan mendapatkan feedback untuk meningkatkan versi saat ini
@@ -74,3 +77,10 @@ mengotomatiskan proses rilis, memungkinkan developer mendeteksi masalah dengan c
 dan membangun versi produk aplikasi yang lebih baik. Continuous adalah kunci untuk
 menghilangkan langkah tambahan lainnya yang menghambat pengembangan pada sebuah
 aplikasi.
+
+
+3.Instalasi Ubuntu Server menggunakan VMWare/Multipass
+
+
+
+

@@ -86,8 +86,8 @@ vmware
 
 
 Setelah vmware terinstall, kita bisa langsung membuat virtual machine kita
-ere's an image:
 
+![1](/images/1.jpg)
 
 
 

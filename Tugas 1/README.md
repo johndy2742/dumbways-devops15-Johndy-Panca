@@ -89,5 +89,78 @@ Setelah vmware terinstall, kita bisa langsung membuat virtual machine kita
 
 ![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/1.jpg)
 
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/2.jpg)<br>
+Dipilihan ini pilih custom configuration agar kita bisa membuat konfigurasi sesuai dengan
+kebutuhan
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/3.jpg)<br>
+Pada page ini browse file live server ubuntu yang didownload tadi
+
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/4.jpg)<br>
+Masukan nama, username, dan password, informasi ini akan digunakan setiap kali kita ingin
+login ke live server kita
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/5.jpg)<br>
+Pilih lokasi untuk penginstalan vm
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/5.jpg)<br>
+Pilihlah jumlah core sesuai kebutuhan disini saya memakai 2 core
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/6.jpg)<br>
+Lalu pilih memory yang ingin dipakai disini saya memlih 1GB
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/7.jpg)<br>
+Untuk koneksi pilihlah option NAT
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/8.jpg)<br>
+Untuk disk pilih Create a new virtual disk
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/9.jpg)<br>
+Setelah itu kita tinggal membuild virtual machine yang sudah kita konfigurasi
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/10.jpg)<br>
+Setelah virtual machine telah selesai di build kita harus melakukan beberapa konfigurasi lagi
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/11.jpg)<br>
+Untuk konfigurasi koneksi kita akan memakai static configuration
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/12.jpg)<br>
+Lalu kita masukan ip address, subnet, dan default getaway sesuai dengan adapter apa yang
+kita gunakan di vmware, untuk mengecek adapter apa yang digunakan bisa melalui command
+prompt
+
+Pada command prompt masukan command ipconfig
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/13.jpg)<br>
+Disini terlihat ip address dan subnet kita, masukan ip address sesuai dengan informasi disini
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/14.jpg)<br>
+Pada konfigurasi storage pilih custom storage layout
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/15.jpg)<br>
+Kita akan membuat partisi yaitu root dan swap
+root adalah tempat dimana sistem kita itu ter-install.
+swap adalah suatu memori cadangan yang akan digunakan untuk server kita apabila memori1
+utama sudah penuh
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/16.jpg)<br>
+Untuk swap cukup 1GB saja
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/17.jpg)<br>
+Untuk root gunakan semua memori yang tersisa
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/18.jpg)<br>
+Lalu masukan nama, nama server dan password untuk server yang dibuat
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/19.jpg)<br>
+Pada ssh setup pilih install openssh server
+Setelah selesai diinstall
+Coba lah untuk ping ke google.com atau 8.8.8.8
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/20.jpg)<br>
+
+![2](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%201/images/21.jpg)<br>
+Jika berhasil maka koneksi server sudah berhasil
 
 

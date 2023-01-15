@@ -87,7 +87,7 @@ vmware
 
 Setelah vmware terinstall, kita bisa langsung membuat virtual machine kita
 
-![1](/images/1.jpg)
+![1](dumbways-devops15-Johndy-Panca/Tugas 1/images/1.jpg)
 
 
 

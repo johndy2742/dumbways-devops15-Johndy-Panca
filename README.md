@@ -1,5 +1,5 @@
-
 Tugas 1
+
 1. Definisi DevOps
    DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana
 kedua kata tersebut bermakna “operasional pengembang”. Seperti yang disebutkan

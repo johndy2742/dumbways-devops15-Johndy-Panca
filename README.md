@@ -79,7 +79,14 @@ menghilangkan langkah tambahan lainnya yang menghambat pengembangan pada sebuah
 aplikasi.
 
 
-<h2>3.Instalasi Ubuntu Server menggunakan VMWare/Multipass</h2>
+<h2>3.Instalasi Ubuntu Server menggunakan VMWare</h2>
+
+Pertama kita harus mendownload file file yang dibutuhkan seperti ubuntu live server dan
+vmware
+
+
+Setelah vmware terinstall, kita bisa langsung membuat virtual machine kita
+ere's an image:
 
 
 

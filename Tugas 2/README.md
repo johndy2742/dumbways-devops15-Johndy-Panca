@@ -19,7 +19,7 @@ klien dan server, tetapi setiap node dapat menjadi klien atau server tergantung
 pada apakah node tersebut meminta atau menyediakan layanan. Setiap node
 dianggap sebagai peer .
 <h2>3. Jalankan nginx di server kalian</h2>
-![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/1.jpg)
+![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/images/1.jpg)
 
 <h2>4. Cari 3 command shell yang belum di present dan berikan definisinya<h2>
 

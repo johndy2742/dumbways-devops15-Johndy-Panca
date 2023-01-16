@@ -32,8 +32,10 @@ NGINX sudah berjalan di server
 Command df
 Berfungsi untuk melihat disk space yang tersedia di setiap partisi dalam
 sistem
+
 Command locate
 Berfungsi untuk melacak lokasi sebuah file dalam sistem
+
 Command du
 Berfungsi untuk melihat disk usage
 

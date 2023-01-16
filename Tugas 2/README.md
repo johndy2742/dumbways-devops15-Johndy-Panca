@@ -27,7 +27,7 @@ NGINX sudah berjalan di server
 
 
 
-<h2>4. Cari 3 command shell yang belum di present dan berikan definisinya<h2>
+<h2>4. Cari 3 command shell yang belum di present dan berikan definisinya</h2>
 
 Command df
 Berfungsi untuk melihat disk space yang tersedia di setiap partisi dalam

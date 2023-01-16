@@ -19,7 +19,40 @@ klien dan server, tetapi setiap node dapat menjadi klien atau server tergantung
 pada apakah node tersebut meminta atau menyediakan layanan. Setiap node
 dianggap sebagai peer .
 <h2>3. Jalankan nginx di server kalian</h2>
-![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/2.jpg)
+
+![gambar](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/1.jpg)
+NGINX sudah berjalan di server
+
+
+
+
 
 <h2>4. Cari 3 command shell yang belum di present dan berikan definisinya<h2>
 
+Command df
+Berfungsi untuk melihat disk space yang tersedia di setiap partisi dalam
+sistem
+Command locate
+Berfungsi untuk melacak lokasi sebuah file dalam sistem
+Command du
+Berfungsi untuk melihat disk usage
+
+<h2>Challenge</h2>
+
+install node version manager dan jalankan nginx di Localtunnel
+![gambar](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/2.jpg)
+Disini saya menggunakan script untuk menginstall nvm
+
+
+![gambar](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/3.jpg)
+Ini adalah proses penginstalan localtunnel
+
+![gambar](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/4.jpg)
+
+
+![gambar](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/5.jpg)
+Setelah ini cek di browser apakah localtunnel berhasil dirun
+
+
+![gambar](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%202/Images/6.jpg)
+Seperti yang dilihat nginx sudah berhasil berjalan di localtunne

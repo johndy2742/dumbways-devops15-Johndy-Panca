@@ -106,4 +106,4 @@ Note : kalau hanya bisa menjalankan 1 VM, kalian cukup jalankan task no 3 & 4 di
 tersebut
 
 Challenge
-Load Balancer dapat berjalan dengan b
+Load Balancer dapat berjalan dengan baik

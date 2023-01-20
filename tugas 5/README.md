@@ -44,14 +44,18 @@ Save dan run script dengan command
 Bash script.sh
 
 [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-001.png)
+
 Script pun akan berjalan secara otomatis
+
 [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-002.png)
+
 Dan apache2 pun berhasil diinstall
 
 3. BASH script untuk memberi akses ke port 22,80,443
 Pertama kita aktifkan dulu firewall dengan command
 
 Sudo ufw enable
+
 [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-003.png)
 
 Setelah firewall aktif kita tidak akan bisa mengakses server (default port adalah 80)
@@ -99,7 +103,9 @@ dalam file
   [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-010.png)
 
   Untuk echo kita bisa menggunakan beberapa function seperti
+  
 echo <text> berfungsi untuk mencetak string yang dimasukan
+  
 [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-011.png)
   
   Echo <text> > <filename> befungsi sama seperti cat > <filename> yaitu untuk menghapus
@@ -165,7 +171,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 Pertama kita aktifkan dulu firewall dengan command
   
 Sudo ufw enable
+  
 [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-022.png)
+  
   Pertama kita coba jalankan aplikasi nodejs kita terlebih dahulu
 
   [1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/tugas%205/images/image-023.png)

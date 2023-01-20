@@ -158,17 +158,23 @@ Python3 dijalankan melalui local tunnel
 ![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%203/images/image-025.png)
 
 
-Pm2
+
 
 ![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%203/images/image-026.png)
+Pm2
 
 Pertama kita install dulu pm2 nya
 Lalu kita run aplikasi python dengan pm2 menggunakan command
 pm2 start index.py --interpreter=/usr/bin/python3
 
-Lalu jalankan locatunnel dengan port 5000
+
 
 ![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%203/images/image-027.png)
+![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%203/images/image-028.png)
+
+Lalu jalankan locatunnel dengan port 5000
+![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%203/images/image-029.png)
+![1](https://github.com/johndy2742/dumbways-devops15-Johndy-Panca/blob/main/Tugas%203/images/image-030.png)
 
 Aplikasi python pun berhasil dijalankan dengan pm2
 
